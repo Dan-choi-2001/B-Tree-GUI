@@ -1,3 +1,4 @@
 # B Tree GUI
+this project using ArrayList structure and some graphic stuff :))
 
-Chạy main.java
+Run main.java
